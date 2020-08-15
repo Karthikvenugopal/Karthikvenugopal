@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a Quiz app ❓
+<!-- - 🔭 I’m currently working on a Quiz app ❓ -->
 - 🌱 I’m currently learning Flask 🧪
 - 👯 I’m looking to collaborate on any Web development related projects 💻
 - 💬 Ask me about and I'll try to learn it 🤓
