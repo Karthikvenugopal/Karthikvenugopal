@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on a Quiz app ❓ -->
 - 🌱 I’m currently a student at USC getting into AI  🧪
-- 👯 I’m looking to collaborate with others on any projects 💻
+- 👯 I’m looking to for full-time opportunities 💻
 - 📫 How to reach me: ping me on LinkedIn or email me 📧
 - ⚡ Fun fact: 92% of the world's currency exists only on computers 🔥
 
