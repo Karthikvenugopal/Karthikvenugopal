@@ -7,9 +7,11 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on a Quiz app ❓ -->
 - 🌱 I’m currently a student at USC getting into AI  🧪
 - 👯 I’m looking to for full-time opportunities 💻
-- 🤓 I'm getting into Physical AI
+- 🤓 I'm getting into Physical AI 🤖
 - 📫 How to reach me: ping me on LinkedIn or email me 📧
 - ⚡ Fun fact: 92% of the world's currency exists only on computers 🔥
+
+- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Karthikvenugopal?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!-- 12 🤔 I’m looking for help with ... -->
  <!-- 15- 😄 Pronouns: ... -->
