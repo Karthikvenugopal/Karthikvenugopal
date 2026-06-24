@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ping me on LinkedIn or email me 📧
 - ⚡ Fun fact: 92% of the world's currency exists only on computers 🔥
 
-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Karthikvenugopal?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Karthikvenugopal?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!-- 12 🤔 I’m looking for help with ... -->
  <!-- 15- 😄 Pronouns: ... -->
