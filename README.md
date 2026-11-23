@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Karthikvenugopal?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 <!-- 12 🤔 I’m looking for help with ... -->
  <!-- 15- 😄 Pronouns: ... -->
